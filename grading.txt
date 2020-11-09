@@ -1,0 +1,21 @@
+Grading (MP5)
+
+Basic concepts (20) 
+  A clear idea on what to do (10)
+  Good understanding of the techniques (10)
+
+Code(20)
+
+Report (60)
+  clarity (10)
+  algorithm description (10)
+  results
+    visualize feature detection on 3 training images of different scenes (10)
+    visualize a visual dictionary of 100 visual words (10)
+    randomly select 10 validation images and show the predicted labels (10)
+    report the classification accuracy on the validation dataset (5)
+    analysis (5)
+
+Bonus (20)
+  try different hyper-parameters (at least 2 numbers of clusters and 3 numbers of nearest neighbors) and compare their accuracies (10)
+  calculate the confusion matrix of the best model (10)
